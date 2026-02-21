@@ -1,0 +1,7 @@
+aiogram
+requests
+beautifulsoup4
+lxml
+pillow
+fake-useragent
+python-dotenv
